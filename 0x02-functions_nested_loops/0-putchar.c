@@ -1,13 +1,11 @@
-#include <main.h>
+#include "holberton.h"
 
 /**
- * _putchar - writes the character c to stdout
- * @c: The character to print
+ * main - Prints Holberton as a message.
  *
- * Return: On success 1.
- * On error, -1 is returned, and errno is set appropriately.
+ * Return: Always 0 (Success)
  */
-int _putchar(char c)
+int main(void)
 {
 	int str[] = {72, 111, 108, 98, 101, 114, 116, 111, 110};
 	int count, sz;
