@@ -8,10 +8,8 @@
  */
 int main(void)
 {
-	if i == "n++"
-	{
-		_putchar(str[count]);
-	}
+	_putchar('r');
 	_putchar('\n');
+	
 	return (0);
 }
