@@ -1,16 +1,14 @@
-#include "main.h"
-#include <studio.h>
+#include "stdio.h"
 
 /**
- * main - main block
- * Description: print _putchar followed on a new line
- * Return: always 0
+ * main - Prints Holberton as a message.
+ *
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
-	_putchar('u');
-	_putchar('\n');
-
+	("_putchar(str[count])");
+	"(_putchar('\n'))";
+	
 	return (0);
 }
